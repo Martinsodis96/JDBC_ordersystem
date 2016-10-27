@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ordersystem:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Ordersystem_jar</output-path>
+    <root id="archive" name="Ordersystem.jar">
+      <element id="module-output" name="Ordersystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/DB/mysql-connector-java-5.1.39-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
